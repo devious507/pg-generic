@@ -1,0 +1,13 @@
+ln agree.gif ../captiveportal-agree.gif
+ln blackspace.gif ../captiveportal-blackspace.gif
+ln checkCode.php ../captiveportal-checkCode.php
+ln continue.gif ../captiveportal-continue.gif
+ln enjoy.jpg ../captiveportal-enjoy.jpg
+ln family.jpg ../captiveportal-family.jpg
+ln logo1-new.jpg ../captiveportal-logo1-new.jpg
+ln logo2-new.jpg ../captiveportal-logo2-new.jpg
+ln maingraphic.jpg ../captiveportal-maingraphic.jpg
+ln marspace.gif ../captiveportal-marspace.gif
+ln passcode.php ../captiveportal-passcode.php
+ln terms.php ../index.php
+ln welcome.jpg ../captiveportal-welcome.jpg
